@@ -132,12 +132,6 @@ class BankAccount
 			System.out.println("ThankYou for using services");
 		}
 
-
-
-
-
-
-
 	
 }
 
